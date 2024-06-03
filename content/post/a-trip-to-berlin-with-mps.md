@@ -10,7 +10,7 @@ tags:
 # menu: main # Optional, add page to a menu. Options: main, side, footer
 
 # Theme-Defined params
-thumbnail: "img/placeholder.png" # Thumbnail image
+thumbnail: "img/posts/berlin-1-2019-04-23.png" # Thumbnail image
 lead: "Example lead - highlighted near the title" # Lead text
 comments: false # Enable Disqus comments for specific page
 authorbox: true # Enable authorbox for specific page
@@ -27,7 +27,7 @@ widgets: # Enable sidebar widgets in given order per page
 On the cold morning of January 21st 2019, MPS members from across the country made their way to Dublin airport. Excitement grew as the plane began to land but was temporarily interrupted when the fresh -6 degree air hit us. 
 
  
-Picture1.png
+![Berlin](/img/posts/berlin-1-2019-04-23.png)
 
 The first night, the group had some time to explore and eat. We stumbled across a beautiful Italian called Amici Amici in Mehringdamm and collectively filled up on pizza, pasta and wine.
 
@@ -36,7 +36,7 @@ Our next stop was a chemistry themes bar which served drinks from conical flasks
  
 
 The first bright and beautiful morning in Berlin was spent in the television tower, which takes its guest up 302 meters in the air and boasts a 360-degree view of the city of Berlin.e then made a visit to Deutschland Radio and we were kindly given a guided tour of the impressive station. 
-Picture2.png
+![Berlin](/img/posts/berlin-2-2019-04-23.png)
 
 After a jam-packed afternoon, a karaoke club was the perfect way to end the day. We made our way to the Green Mango karaoke club and sang the night away. There were some very interesting performances, to say the least!
 
@@ -49,6 +49,8 @@ his was followed by a cold walk to see the Holocaust memorial and the Brandenbur
 The day was concluded with a quick trip to the East Side Gallery as the sun was beginning to set and fingers beginning to lose feeling. The night was continued in Berlin’s Matrix nightclub which has two levels of different music and great entertainment.
 
 We concluded the cold but wonderful trip by visiting Checkpoint Charlie.
+
+![Berlin](/img/posts/berlin-3-2019-04-23.png)
 
 Thanks to MPS for making the Berlin trip so memorable. Below are a few Berlin travel vlogs made by some lovely MPS members!
 
